@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ffd5498-8949-4bb3-b85f-8fe8b1cc6a81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\idea\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1hXwlH9LlL266YMukPZfEMaSOY5" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.20125" />
+    <property name="project.structure.side.proportion" value="0.50324374" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.dp_learn">
+    <configuration name="LC00007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC00007.LC00007" />
+      <module name="leetcode_demos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.LC00007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC00008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC00008.LC00008" />
+      <module name="leetcode_demos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.LC00008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC00009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC00009.LC00009" />
+      <module name="leetcode_demos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.LC00009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC00010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC00010.LC00010" />
+      <module name="leetcode_demos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.LC00010.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dp_learn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learn_demo.dp_demo.dp_learn" />
+      <module name="leetcode_demos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learn_demo.dp_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dp_learn" />
+        <item itemvalue="Application.LC00010" />
+        <item itemvalue="Application.LC00009" />
+        <item itemvalue="Application.LC00008" />
+        <item itemvalue="Application.LC00007" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ffd5498-8949-4bb3-b85f-8fe8b1cc6a81" name="Default Changelist" comment="" />
+      <created>1600170893422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600170893422</updated>
+      <workItem from="1600170898874" duration="2926000" />
+      <workItem from="1600213757491" duration="3072000" />
+      <workItem from="1600238775816" duration="2358000" />
+      <workItem from="1600347781953" duration="1757000" />
+      <workItem from="1600420774783" duration="3079000" />
+      <workItem from="1600476972256" duration="2766000" />
+      <workItem from="1600512634449" duration="478000" />
+      <workItem from="1600516905325" duration="1222000" />
+      <workItem from="1600572023273" duration="38000" />
+      <workItem from="1600651420678" duration="5583000" />
+      <workItem from="1600821780209" duration="21000" />
+      <workItem from="1600912218463" duration="1746000" />
+      <workItem from="1600935589611" duration="3076000" />
+      <workItem from="1601382750999" duration="5030000" />
+      <workItem from="1601444249133" duration="33000" />
+      <workItem from="1601516244526" duration="639000" />
+      <workItem from="1601521867837" duration="5851000" />
+      <workItem from="1602413404436" duration="619000" />
+      <workItem from="1608535320990" duration="2184000" />
+      <workItem from="1609729976941" duration="1186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="111" key="#Inspections" timestamp="1608536868815">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="111" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1608536868815" />
+    <state x="461" y="222" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1601522929099">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="461" y="222" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.864@0.0.1536.864" timestamp="1601522929099" />
+    <state x="573" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601516271387">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="573" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1601516271387" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1600821798484">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600821798484" />
+    <state width="1492" height="157" key="GridCell.Tab.0.bottom" timestamp="1608537378892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="157" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608537378892" />
+    <state width="1492" height="157" key="GridCell.Tab.0.center" timestamp="1608537378892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="157" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608537378892" />
+    <state width="1492" height="157" key="GridCell.Tab.0.left" timestamp="1608537378892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="157" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608537378892" />
+    <state width="1492" height="157" key="GridCell.Tab.0.right" timestamp="1608537378892">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="157" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608537378892" />
+    <state width="1492" height="277" key="GridCell.Tab.1.bottom" timestamp="1601391311272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601391311272" />
+    <state width="1492" height="277" key="GridCell.Tab.1.center" timestamp="1601391311272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1601391311272" />
+    <state width="1492" height="277" key="GridCell.Tab.1.left" timestamp="1601391311272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1601391311272" />
+    <state width="1492" height="277" key="GridCell.Tab.1.right" timestamp="1601391311272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1601391311272" />
+    <state x="246" y="37" key="SettingsEditor" timestamp="1601522947291">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="246" y="37" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601522947291" />
+    <state x="178" y="93" key="new project wizard" timestamp="1600944504574">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="93" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1600944504574" />
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1600651603545">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="430" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1600651603545" />
+  </component>
+</project>
